@@ -5,7 +5,7 @@
 - Intellij
 ## How to run
 1. master/main -> chạy ok
-2. dev: cùng tích hợp
+2. dev: cả nhóm tích hợp
 3. dev-huyen, dev-cat
 
 
